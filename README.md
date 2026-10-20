@@ -2,6 +2,8 @@
 
 Keeping the Samsung Galaxy Y alive, one app at a time.
 
+---
+
 About
 
 Hi! Welcome to Galaxy Y Archive.
